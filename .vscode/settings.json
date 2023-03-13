@@ -1,0 +1,27 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "cSpell.words": ["arcgis", "Millis", "Mmsi", "RPAS"],
+  "eslint.alwaysShowStatus": false,
+  "eslint.enable": true,
+  "prettier.arrowParens": "always",
+  "editor.formatOnSave": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.accessibilitySupport": "off",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
